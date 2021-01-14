@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World I'm Balsa 👋
 
 I am freelance Android Developer looking to find right company to join. I have passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to drop some ❤️ on email. Feel free to reach out in case you want to drink coffee as well ☕
 
