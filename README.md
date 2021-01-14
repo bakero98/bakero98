@@ -8,7 +8,7 @@ I am freelance Android Developer looking to find right company to join. I have p
 
 🌱 I’m currently having fun with -> [Check out this repo](https://github.com/bakero98/Algoritmi-i-strukture-podataka)
 
-- 📫 How to reach me -> mugosab@gmail.com
+📫 How to reach me -> mugosab@gmail.com
 
 ⚡ Fun fact -> I once won programming competiton, but i signed myself with some imaginative name. ( This is true I have certificate on that name and prize )
 
